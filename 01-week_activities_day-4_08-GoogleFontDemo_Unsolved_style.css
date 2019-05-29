@@ -1,0 +1,22 @@
+/**
+ * Google Fonts Demo
+ **/
+
+/* Add in the Google Fonts of your choice */
+h1 {
+    font-family: 'Shadows Into Light', cursive;
+
+}
+h3 {
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
+}
+h4 {
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 25px;
+}
+
+p {
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
